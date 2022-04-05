@@ -6,3 +6,5 @@
 
 给定两个协程，一个打印奇数，一个打印偶数，但是交替输出奇数和偶数  
 只用一个chan就可以实现: [multi_thread.go](elegant-code/print_nums.go)
+
+辗转相除求两数的最大公约数: [gcd.go](elegant-code/gcd.go)
