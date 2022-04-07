@@ -1,8 +1,8 @@
 # 笔记
 
-[GO](./go/go-node.md)
+[GO](./go/index.md)
 
-[K8S]()
+[K8S](./k8s/index.md)
 
 [网络]()
 
